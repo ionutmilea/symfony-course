@@ -1,2 +1,2 @@
-app:
+catalog:
     resource: "@AppBundle/Resources/config/routing.yml"
